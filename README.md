@@ -30,7 +30,8 @@ ___
 ### Tutorial
 ![GIF of plugin being used](https://i.imgur.com/amr6YFB.gif)
 
-(click on the gif for larger view)
+(click on the GIF for larger view)
+
 ---
 
 > [!WARNING]
