@@ -55,7 +55,7 @@ const generateRayUrl = (
 	code,
 	options = {}
 ) => {
-	const objParams = {code: generateEncodedCode(code), ...options},
+	const objParams = {code: generateEncodedCode(code), ...options, language: getLanguageName()},
 	      parameters = Object.keys(objParams).map(key => 
 			    `${key}=${encodeURIComponent(objParams[key])}`
 	      ).join("&");
@@ -72,15 +72,15 @@ function correctIndentation(text) {
 	return lines.map(x => x.slice(minimumLength)).join("\n").trim();
 }
 
-/*function getLanguageName() {
+function getLanguageName() {
 	const tabFilePath = vscode.window.activeTextEditor.document.fileName;
 	const segments = tabFilePath.split(".");
 	if (!segments.length) return;
 	const extension = segments[segments.length - 1].toLowerCase();
 	const [language] = filetypes.filter(({ extensions }) => extensions.includes(extension));
-	return language ? language.value : "auto";
+	return language ? language.value : "plaintext";
 }
-*/
+
 
 function activate(context) {
 	
