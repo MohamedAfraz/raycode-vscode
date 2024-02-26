@@ -6,6 +6,7 @@ ___
 ### Features
 
 - Quickly save screenshots of your code
+- Can detect 50+ Programming Languages Automatically
 - Copy screenshots to your clipboard
 - Copy the link of your RayCode
 - Export as PNG or SVG
@@ -16,8 +17,7 @@ ___
 3. Type `"RayCode"` and click `Enter`.
 4. Wait
 5. RayCode will quickly open the generated snippet in your browser at https://raycode.netlify.app/
-> [!IMPORTANT]
-> 6. Select Language of the selected text in the Drop-Down menu
+6. If language is set as `Plaintext`. Then select language of the selected text in the Drop-Down menu
 7. Now, Feel free to tryout all the other Controls & Options 
 8. Save the Image. Profit !!
 
