@@ -1,6 +1,6 @@
-# [RayCode](https://bit.ly/raycode_)
+# [RayCode](https://dub.sh/raycode-new)
 
-##### Instantly upload your code snippets to [RayCode](https://raycode.netlify.app) without having to swap between the vsCode IDE and your browser.
+##### Instantly upload your code snippets to [RayCode](https://raycode.netlify.app) without having to swap between the VS Code IDE and your browser.
 ___
 
 ### Features
