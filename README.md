@@ -17,7 +17,7 @@ ___
 3. Type `"RayCode"` and click `Enter`.
 4. Wait
 5. RayCode will quickly open the generated snippet in your browser at https://raycode.netlify.app/
-6. If language is set as `Plaintext`. Then select language of the selected text in the Drop-Down menu
+6. If language is set as `Plaintext`. Then select language of the selected text from the Drop-Down menu
 7. Now, Feel free to tryout all the other Controls & Options 
 8. Save the Image. Profit !!
 
