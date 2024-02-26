@@ -1,4 +1,4 @@
-# [RayCode](https://raycode.netlify.app/)
+# [RayCode](https://bit.ly/raycode_)
 
 ##### Instantly upload your code snippets to [RayCode](https://raycode.netlify.app) without having to swap between the vsCode IDE and your browser.
 ___
